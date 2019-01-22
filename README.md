@@ -1,9 +1,10 @@
-# Practice Python
+## Practice Python
 I practice python by doing small to medium scale project
 
 My list of projects:
-  1. Small:
-    - Dice rolling game
-    - Number guessing game
-    
-  2. Medium:
+1. Small:
+
+- [Dice roliing](https://github.com/dangne/practicing-python/blob/master/dice_rolling.py)
+- Number guessing
+
+2. Medium:
