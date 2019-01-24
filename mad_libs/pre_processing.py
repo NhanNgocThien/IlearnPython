@@ -1,3 +1,6 @@
+# Date created: 24/01/2019
+# Pre-process raw data from WordNet 3.0 f
+
 # Four types of American words
 word_type = ['adj', 'adv', 'noun', 'verb']
 
