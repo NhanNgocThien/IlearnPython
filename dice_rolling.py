@@ -1,4 +1,8 @@
+# Date created: 23/01/2019
+# Generate random number
+
 from random import randrange
+
 cont = 1
 while cont == 1:
     print("Roll dice: ", randrange(1,7,1))
