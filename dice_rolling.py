@@ -1,5 +1,5 @@
 # Date created: 23/01/2019
-# Generate random number
+# Dice rolling simulation
 
 from random import randrange
 
