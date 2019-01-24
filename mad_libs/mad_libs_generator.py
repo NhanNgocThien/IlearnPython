@@ -1,3 +1,7 @@
+# Date created: 24/01/2019
+# A mad libs generator. I get words data from WordNet 3.0
+# More information about mad libs: https://en.wikipedia.org/wiki/Mad_Libs
+
 from random import randrange
 
 ### Initialization
