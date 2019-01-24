@@ -1,3 +1,6 @@
+# Date created: 24/01/2019
+# Number guessing game
+
 from random import randrange
 
 # Initialization
