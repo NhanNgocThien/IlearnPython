@@ -1,5 +1,5 @@
-## Practice Python
-I practice python by doing small projects
+## Python Mini Projects
+This is the way I learn Python, by doing small projects.
 
 My list of projects:
 
