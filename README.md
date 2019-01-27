@@ -11,3 +11,5 @@ My list of projects:
     Random function, In/Out, While, If/Else statements, FSM, Get current OS information.
 - [Mad Libs Generator](https://github.com/dangne/practicing-python/tree/master/mad_libs):
     Random function, In/Out, File In/Out, Data preprocessing, String manipulation. (Data from WordNet 3.0)
+- [GUI Counter](https://github.com/dangne/python-mini-projects/blob/master/counter_gui.py):
+    GUI, tkinter, Label, Frame, Button, Event control, OOP
