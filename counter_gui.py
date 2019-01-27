@@ -1,3 +1,6 @@
+# Date created: 27/01/2019
+# A simple GUI counter provides two mode: count up, count down. It also has stop, and reset button
+
 # Import modules
 try:
     from tkinter import *
