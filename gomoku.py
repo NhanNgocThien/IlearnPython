@@ -1,4 +1,6 @@
-#!/usr/bin/env python3
+# Date created: 28/01/2019
+# Human vs human gomoku game
+
 # Import modules
 try:
     from tkinter import *
