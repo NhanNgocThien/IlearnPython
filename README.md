@@ -13,5 +13,5 @@ My list of projects:
     Random function, In/Out, File In/Out, Data preprocessing, String manipulation. (Data from WordNet 3.0)
 - [GUI Counter](https://github.com/dangne/python-mini-projects/blob/master/counter_gui.py):
     GUI, Tkinter, Label, Frame, Button, Event control, OOP
-- [GUI Gomoku game](https://github.com/dangne/python-mini-projects/blob/master/gomoku.py):
-    GUI, Tkinter, Label, Frame, Button matrix, Event control, OOP
+- [GUI Tic-tac-toe game](https://github.com/dangne/python-mini-projects/blob/master/tictactoe/tictactoe.py):
+    GUI, Tkinter, PhotoImage, Label, Frame, Button matrix, Event control, OOP
