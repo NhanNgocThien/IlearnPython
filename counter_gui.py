@@ -70,7 +70,7 @@ class Counter():
         self.b_reset.grid(row = 2, column = 1)
 
     def count_up(self):
-        if self.state != S_UP:  # To prevent rapid function callback because of rapid clicks
+        if self.state != S_UP:  # To prevent rapid function callback caused by rapid clicks fr
             self.state = S_UP
             self.count_enable = True
             self.mode = M_UP
