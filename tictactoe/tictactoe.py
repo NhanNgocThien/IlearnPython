@@ -1,4 +1,6 @@
-#!/usr/bin/env python3
+# Date created: 29/01/2019
+# Human vs human tic-tac-toe game
+
 # Import modules
 try:
     from tkinter import *
