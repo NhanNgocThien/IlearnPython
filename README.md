@@ -1,6 +1,4 @@
 ## Python Mini Projects
-This is the way I learn Python, by doing small projects.
-
 My list of projects:
 
 - [Dice roliing](https://github.com/dangne/practicing-python/blob/master/dice_rolling.py):
