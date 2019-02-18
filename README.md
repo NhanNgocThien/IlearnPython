@@ -13,3 +13,4 @@ My list of projects:
     GUI, Tkinter, Label, Frame, Button, Event control, OOP
 - [GUI Tic-tac-toe game](https://github.com/dangne/python-mini-projects/blob/master/tictactoe/tictactoe.py):
     GUI, Tkinter, PhotoImage, Label, Frame, Button matrix, Event control, OOP
+khlj
